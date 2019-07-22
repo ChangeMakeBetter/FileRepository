@@ -1,0 +1,8 @@
+paySubmitTest=true
+paysubmitJsonPath=D:/temp/jpos/debugfile/paysubmitJson.json
+
+refundQueryTest=true
+refundQueryJsonPath=D:/temp/jpos/debugfile/refundQueryJsonPath.json
+
+refundTest=true
+refundJsonPath=D:/temp/jpos/debugfile/refundJsonPath.json

@@ -1,0 +1,8 @@
+UseFake = true
+sendCode=0
+sendMessage=failed
+sendSccess=true
+msgCode=123
+checkCode=0
+checkMessage=failed
+checkSccess=true

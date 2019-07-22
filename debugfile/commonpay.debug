@@ -1,0 +1,7 @@
+isTest=false
+
+
+
+#submit={"amt":45,"class":"com.hd123.jpos.csi.param.sap.zjzsh.commonpay.CommonPaySubmitResponse","erDat":1513785600000,"erNam":"ZJSY_FYPRFC","erZet":null,"favors":[],"goods":[{"amt":45.00,"barCode":"180102","class":"com.hd123.jpos.csi.param.sap.zjzsh.commonpay.CommonPayGoodsSubDetail","cmdType":"Q","gdCode":"BP20180102","gdLine":"1","gdName":"312313","ordNum":"201712210003161312","posNo":"BP000","qty":"1.000","sorta":"0","sortb":"020","sortc":"02000200","storeCode":"BP1103"}],"msg":"success","payments":[],"shkzg":"","success":false,"txDate":null,"txTime":null,"zResult":"01"}
+
+submit={"amt":10,"class":"com.hd123.jpos.csi.param.sap.zjzsh.commonpay.CommonPaySubmitResponse","erDat":null,"erNam":"ZJSY_FYPRFC","erZet":null,"favors":[{"cause":"\u5546\u54C11\u7684\u4F18\u60E0","class":"com.hd123.jpos.csi.param.sap.zjzsh.commonpay.CommonPayProductFavor","favor":3,"gdCode":"11111111","lineNo":1},{"cause":"\u5546\u54C12\u7684\u4F18\u60E0","class":"com.hd123.jpos.csi.param.sap.zjzsh.commonpay.CommonPayProductFavor","favor":4,"gdCode":"11111111","lineNo":2},{"cause":"\u5546\u54C13\u7684\u4F18\u60E0","class":"com.hd123.jpos.csi.param.sap.zjzsh.commonpay.CommonPayProductFavor","favor":5,"gdCode":"11111111","lineNo":3}],"goods":[],"hasFavor":true,"msg":"\u6613\u6377\u5361\u6263\u6B3E\u6210\u529F\uFF01","payments":[],"shkzg":"","success":true,"txDate":null,"txTime":null,"zResult":"0","coupon":"1"}

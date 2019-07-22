@@ -1,0 +1,25 @@
+# 是否使用debugFile测试
+isTest=true
+
+# 读卡是否成功
+getCards=true
+#读卡错误信息
+getCardsError=this is a read card error
+
+# 获取券是否成功
+queryVoucher=true
+queryVoucherError=this is a query voucher error
+
+# 支付是否异常，异常不退出界面 
+#useVoucherException=this is a use voucher exception
+
+# 支付是否成功，在上述useVoucherException被注释时才判断支付是否成功
+useVoucher=false
+useVoucherError=this is a use voucher error
+
+# 撤销是否成功
+cancelVoucher=true
+cancelVoucherError=this is a canel voucher error
+
+
+
